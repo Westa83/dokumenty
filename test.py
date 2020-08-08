@@ -21,6 +21,9 @@ else:
     print('PUDLO !!!!!')
 
 
+#komentarz
+
+
 
 
 
